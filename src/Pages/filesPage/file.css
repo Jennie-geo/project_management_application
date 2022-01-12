@@ -1,0 +1,49 @@
+.file-container {
+  margin: 10px;
+  width: 97%;
+  background-color: #fff;
+  height: 100%;
+  border-radius: 8px;
+}
+
+.table {
+  padding: 20px;
+  width: 100%;
+}
+.head {
+  width: 90%;
+}
+.button {
+  background: #eaeaea;
+  border-radius: 20px;
+  /* width: 100%;
+  height: 100%; */
+  border: none;
+  width: 99px;
+  height: 40px;
+}
+
+.body {
+  padding: 10px;
+  height: 20vh;
+  /* border-top: 1px solid grey;
+  border-bottom: 1px solid grey; */
+  justify-content: center
+}
+.row {
+  height: 7vh;
+  /* border-top: 1px solid grey; */
+  border-bottom: 1px solid grey;
+}
+.UploadBy {
+  border-radius: 20px;
+  width: 150px;
+}
+.image {
+  clip-path: circle();
+  width: 30px;
+  height: 20px;
+}
+
+.UploadBy {
+}
